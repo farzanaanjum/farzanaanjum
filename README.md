@@ -1,4 +1,4 @@
- <h1><img src="https://github.com/suhasmaddali/GIF-files/blob/main/animat-campfire-color.gif" width="75" />Hi there, I'm Farzana Anjum 👋</h1>
+ <h1><img src="https://github.com/suhasmaddali/GIF-files/blob/main/machine%20learning%20gif%20file.gif" width="75" />Hi there, I'm Farzana Anjum 👋</h1>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzana-anjum-330613140/) [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/farzana1)  [![]
 
