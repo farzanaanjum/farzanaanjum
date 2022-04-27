@@ -1,6 +1,6 @@
  <h1><img src="https://github.com/suhasmaddali/GIF-files/blob/main/machine%20learning%20gif%20file.gif" width="75" /> 👋 Hello World, I'm Farzana Anjum 👋</h1>
 
-                                      [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzana-anjum-330613140/) [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/farzana1)
+   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzana-anjum-330613140/) [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/farzana1)
 
 
 Enthusiastic about __Machine Learning__ , __Data Science__ and __Artificial Intelligence__.
@@ -18,5 +18,7 @@ Enthusiastic about __Machine Learning__ , __Data Science__ and __Artificial Inte
 
 
 
-- 🔭 I’m currently working on Computer Vision Engineer   <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/Robot%20Computer%20Vision.gif"/>
-- 🌱 I’m currently learning Data Science, SQL            <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/programming-gif.gif"/>       
+- 🔭 I’m currently working on Computer Vision Engineer
+   
+   
+                                         <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/programming-gif.gif"/>       
