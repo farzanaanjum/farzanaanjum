@@ -12,7 +12,7 @@ Enthusiastic about __Machine Learning__ , __Data Science__ and __Artificial Inte
 
 
 
-<h2> My Software Tools </h2>
+<h2> Software Tools </h2>
 
 [![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com) 
 
@@ -21,4 +21,4 @@ Enthusiastic about __Machine Learning__ , __Data Science__ and __Artificial Inte
 - 🔭 I’m currently working on Computer Vision Engineer
    
    
-                                         <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/programming-gif.gif"/>       
+     <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/programming-gif.gif"/>       
