@@ -15,4 +15,4 @@ Enthusiastic about __Machine Learning__ , __Data Science__ and __Artificial Inte
 - 🔭 I’m currently working on Computer Vision Engineer
    
    
-     <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/programming-gif.gif"/>       
+     <img src = "![CV](https://user-images.githubusercontent.com/30755050/166114924-9539fe67-7020-43a2-acbb-9a0a9020a1cc.gif)"/>       
