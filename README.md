@@ -2,11 +2,6 @@
    <h1><img src="https://github.com/suhasmaddali/GIF-files/blob/main/machine%20learning%20gif%20file.gif" width="75" />  👋 Hey there, I'm Farzana Anjum 👋</h1>
    
    
-<p align='center'>
-  Computer Vision Engineer
-</p>
-
-
 
    [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzana-anjum-330613140/) [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/farzana1) [![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10503224/farzana-anjum)
 
