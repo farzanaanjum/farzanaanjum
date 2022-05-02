@@ -17,7 +17,11 @@
   <a href="https://stackoverflow.com/users/10503224/farzana-anjum/">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />        
   </a>&nbsp;&nbsp;
-   
+   <a href="https://twitter.com/FarzanaAnjum14/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+ 
 </p>
 
 <h3 align='center'>
