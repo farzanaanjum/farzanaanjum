@@ -59,7 +59,8 @@ Enthusiastic about Machine Learning, Data Science and Artificial Intelligence.
    <a href="https://www.spyder-ide.org/"><img src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white"/>
   </a>&nbsp;&nbsp;
    <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  </a>&nbsp;&nbsp;<a href="https://www.nvidia.com/en-in/"><img src="https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.nvidia.com/en-in/"><img src="https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   </a>&nbsp;&nbsp;
 </p>
 
