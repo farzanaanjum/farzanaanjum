@@ -78,7 +78,10 @@ Enthusiastic about Machine Learning, Data Science and Artificial Intelligence.
    
   
    
-   
+<br>
+<br>
+  
+  
 <p align='center'>
   <a href="#"><img src="https://user-images.githubusercontent.com/30755050/166115018-96455fd7-a8cd-4c7d-b343-8fda68784d5a.gif"></a>
 </p>
