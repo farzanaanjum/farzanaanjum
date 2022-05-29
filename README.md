@@ -22,11 +22,13 @@
   </a>&nbsp;&nbsp;
   
  
+ 
 </p>
 
 <h3 align='center'>
 Enthusiastic about Machine Learning, Data Science and Artificial Intelligence.
 </h3>
+
 
 <h2 align='center'> My Skills </h2>
 
@@ -74,6 +76,7 @@ Enthusiastic about Machine Learning, Data Science and Artificial Intelligence.
     🔭 I’m currently working on Computer Vision, Object Detection, Image Classification, Image Segmentation
  </h4?
    
+  
    
    
 <p align='center'>
