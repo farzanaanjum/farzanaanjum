@@ -73,13 +73,14 @@ Enthusiastic about Machine Learning, Data Science and Artificial Intelligence.
 
  
  <h4 align='center'>
-    🔭 I’m currently working on Computer Vision, Object Detection, Image Classification, Image Segmentation
- </h4?
+    🔭 I’m currently working on Computer Vision, Object Detection, Image Classification, Image Segmentation and Object Tracking
+ </h4>
    
   
    
-<br>
-<br>
+<p>
+  
+</p>
   
   
 <p align='center'>
