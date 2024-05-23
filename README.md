@@ -26,7 +26,7 @@
 </p>
 
 <h3 align='center'>
-Enthusiastic about Machine Learning, Data Science and Artificial Intelligence.
+Enthusiastic about Vision AI, Computer Vision, Machine Learning and Data Science
 </h3>
 
 
