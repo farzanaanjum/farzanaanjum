@@ -72,12 +72,8 @@ Enthusiastic about GenAI, AI/ML
 
 
  
- <h4 align='center'>
-    🔭 I’m currently working on Computer Vision, Deep Learning, Object Detection, Image Classification, Image Segmentation and Object Tracking
- </h4>
-   
-  
-   
+ 
+    
 <p>
   
   
