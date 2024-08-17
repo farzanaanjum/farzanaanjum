@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  <h2 align='center'> Computer Vision Engineer </h2>
+  <h2 align='center'> AI/ML Engineer </h2>
 </p>
 
 <p align='center'>
@@ -26,7 +26,7 @@
 </p>
 
 <h3 align='center'>
-Enthusiastic about Vision AI, Computer Vision, Machine Learning and Data Science
+Enthusiastic about GenAI, AI/ML
 </h3>
 
 
