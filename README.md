@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  <h2 align='center'> AI/ML Engineer </h2>
+  <h2 align='center'> AI/ML/GenAI Engineer </h2>
 </p>
 
 <p align='center'>
